@@ -1,2 +1,2 @@
-# student-bio-example
-Student Bio with CSS styling
+# Student-Bio
+Nice to meet you, heres something about me! 
